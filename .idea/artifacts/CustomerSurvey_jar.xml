@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomerSurvey:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomerSurvey_jar</output-path>
+    <root id="archive" name="CustomerSurvey.jar">
+      <element id="module-output" name="CustomerSurvey" />
+    </root>
+  </artifact>
+</component>
